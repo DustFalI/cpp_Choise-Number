@@ -39,7 +39,7 @@ int main()
 	{
 		cin>>arr[i];
 	}
-	fuc(0,0,0);//起始值和位数都从0开始 
+	fuc(0,0,0);
 	cout<<account;
 	return 0;
 }
